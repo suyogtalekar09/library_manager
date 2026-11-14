@@ -1,0 +1,7 @@
+Final Output
+
+Could not borrow: Item is not available for borrowing.
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: Python Weekly by Python.org (ID 2) -> late fee for 3 days: Rs 3
+DVD: Python Tutorial by Python.org (ID 3) -> late fee for 3 days: Rs 15
+Total items created: 3
